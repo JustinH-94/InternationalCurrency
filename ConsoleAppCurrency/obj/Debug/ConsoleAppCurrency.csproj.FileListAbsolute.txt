@@ -1,0 +1,10 @@
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\ConsoleAppCurrency\bin\Debug\ConsoleAppCurrency.exe.config
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\ConsoleAppCurrency\bin\Debug\ConsoleAppCurrency.exe
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\ConsoleAppCurrency\bin\Debug\ConsoleAppCurrency.pdb
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\ConsoleAppCurrency\bin\Debug\Currency.dll
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\ConsoleAppCurrency\bin\Debug\Currency.pdb
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\ConsoleAppCurrency\obj\Debug\ConsoleAppCurrency.csprojAssemblyReference.cache
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\ConsoleAppCurrency\obj\Debug\ConsoleAppCurrency.csproj.CoreCompileInputs.cache
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\ConsoleAppCurrency\obj\Debug\ConsoleAppCurrency.csproj.CopyComplete
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\ConsoleAppCurrency\obj\Debug\ConsoleAppCurrency.exe
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\ConsoleAppCurrency\obj\Debug\ConsoleAppCurrency.pdb

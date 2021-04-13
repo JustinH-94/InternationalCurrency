@@ -1,0 +1,16 @@
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\bin\Debug\UnitTestsCurrency.dll
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\bin\Debug\UnitTestsCurrency.pdb
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\bin\Debug\Currency.dll
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\bin\Debug\Currency.pdb
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\obj\Debug\UnitTestsCurrency.csprojAssemblyReference.cache
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\obj\Debug\UnitTestsCurrency.csproj.CoreCompileInputs.cache
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\obj\Debug\UnitTestsCurrency.csproj.CopyComplete
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\obj\Debug\UnitTestsCurrency.dll
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\obj\Debug\UnitTestsCurrency.pdb
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\UnitTestsCurrency\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
